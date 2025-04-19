@@ -8,3 +8,4 @@ Requirements:
 - Your OS should be Linux Kernel based.
 - You should have Sqlmap already installed.
   
+![Proje Görseli](toolphoto.png)
