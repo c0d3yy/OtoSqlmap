@@ -9,5 +9,6 @@ How To Use:
   ```sh
   gcc insallation.cpp -o installation.exe
   installation.exe
-  
+  ```
+- After The Installation Has Completed You Can Start Using The Tool With Start File "OtoSqlmap.py"
 ![Proje Görseli](toolphoto.png)
