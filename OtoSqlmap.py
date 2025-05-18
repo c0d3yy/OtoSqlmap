@@ -17,7 +17,7 @@ if platform.system() == "Linux":
     #Main Code
     website_list=[]
     empty1= CTkLabel(master=app,text="").pack()
-    MadeBy= CTkLabel(master=app,text="Otomatic Sql Injector - Made By c0de",font=("Arial", 25), text_color="#00bfff" ).pack()
+    MadeBy= CTkLabel(master=app,text="Otomatic Sql Injector - Made By Qantes",font=("Arial", 25), text_color="#00bfff" ).pack()
     addDiscord= CTkLabel(master=app,text="discord.gg/israiltv",font=("Arial",20),text_color="#66ff33").pack()
     entryWebsite= CTkEntry(master=app,width=300,corner_radius=32)
     entryWebsite.pack()
